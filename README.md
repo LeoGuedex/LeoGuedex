@@ -24,18 +24,12 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a> 
   &emsp;
-  
-### Frontend Development  
-
-<a href="https://www.cprogramming.com/" target="_blank"> 
-  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a> 
-  &emsp;
-  
+   
 ### Software & Tools
 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a> 
-  &emsp;
+<a href="https://linuxmint.com/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+<a href="https://github.com/"><img alt="GiHub" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a>
   
 ### IDEs
 
@@ -49,6 +43,30 @@
   <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></a> 
   &emsp;
   
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
   
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">**Github Stats**   
+
+<p align="center">
+<a href="https://github.com/LeoGuedex">
+<img src="https://github-readme-stats.vercel.app/api?username=LeoGuedex&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGuedex&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="457"  alt="0xabdulkhalid"/>
+</a>
+</p>
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+
+<p align="center"><b> Let's Connect..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="80"></p>
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31w3j5pqbdt7tee4lfrdm5sumchu)
+
+
+</div>
+
+---
+
+<br>
+Last Edited on: 05/12/2022
