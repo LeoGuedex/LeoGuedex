@@ -62,7 +62,7 @@
 ### Operating Systems 
 <picture><img src = "https://img.shields.io/badge/Linux-FCC624?style=Plastic&logo=linux&logoColor=black"></picture>
 &emsp;
-<picture><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></picture>
+<a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></a>
 &emsp;
 <picture><img src = "https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white"></picture>
   
