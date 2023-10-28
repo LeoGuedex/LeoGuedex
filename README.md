@@ -1,6 +1,6 @@
 <p align="center"><b>Hi Everyone, I'm Leo Guedes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></p>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Specialist+Software+Engineer+at+Santander;I+love+to+learn+new+technologies;Brazilian%2C+26+years+old;My+favorite+language+is+java" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Specialist+Software+Engineer;I+work+for+Santander;Brazilian%2C+26+years+old;My+love+is+Java" alt="Typing SVG" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <a> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></a>
@@ -20,51 +20,93 @@
 <a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"></a>**My Skills**
 
 ### Programming languages
-<a><img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=Plastic&logo=java&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=Plastic&logo=kotlin&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
    
 ### Software & Tools
-<a><img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=Plastic&logo=spring&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Gradle-02303A.svg?style=Plastic&logo=Gradle&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/git-%23F05033.svg?style=Plastic&logo=git&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Dynatrace-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/github-%23121011.svg?style=Plastic&logo=github&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/LoadRunner-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=Plastic&logo=docker&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/K6-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Rabbitmq-FF6600?style=Plastic&logo=rabbitmq&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/OpenShift-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/JWT-black?style=Plastic&logo=JSON%20web%20tokens"></a>
+<a><img src = "https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Postman-FF6C37?style=Plastic&logo=postman&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Insomnia-black?style=Plastic&logo=insomnia&logoColor=5849BE"></a>
+<a><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=Plastic&logo=Flutter&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=Plastic&logo=mysql&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 &emsp;
+<a><img src = "https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
+&emsp;
+
 
 ### IDEs
-<a><img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=Plastic&logo=intellij-idea&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Eclipse-FE7A16.svg?style=Plastic&logo=Eclipse&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Plastic&logo=visual-studio-code&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=Plastic&logo=android-studio&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=Plastic&logo=notepad%2b%2b&logoColor=black"></a>
+<a><img src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a>
+
 
 ### Operating Systems 
-<a><img src = "https://img.shields.io/badge/Linux-FCC624?style=Plastic&logo=linux&logoColor=black"></a>
+<a><img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
@@ -86,9 +128,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonardo-correa-guedes/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=Plastic&logo=linkedin&logoColor=white"></picture></a>
-<a href="https://www.instagram.com/leo.guedes.correa/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Plastic&logo=Instagram&logoColor=white"></picture></a>
+<a href="https://www.instagram.com/devcorrealeo/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=Plastic&logo=Instagram&logoColor=white"></picture></a>
 </p>
 ---
 
 <br>
-Last Edited on: 05/12/2022
+Last Edited on: 28/10/2022
