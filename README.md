@@ -25,11 +25,15 @@
 <a><img src = "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white"></a>
    
 ### Software & Tools
 <a><img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"></a>
+&emsp;
+<a><img src = "https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Dynatrace-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
 &emsp;
